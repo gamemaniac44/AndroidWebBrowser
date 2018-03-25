@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_discard.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_new_label.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_new_label.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cancel_icon.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\cancel_icon.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_back.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_help.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_time.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\time.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_about_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\about_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_notify.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_notify.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bookmark_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\bookmark_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cheetah.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\cheetah.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_droid2.mp3.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\raw\\droid2.mp3"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_bookmark.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\bookmark.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_forward.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bookmark_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\bookmark_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cheetah.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\cheetah.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_help.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home_button.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\home_button.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cheetah.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\cheetah.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_settings.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_settings.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_notify.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher_notify.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_help.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_overflow.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cancel_icon.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\cancel_icon.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cheetah.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\cheetah.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_overflow.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_discard.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_back.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_discard.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_setting.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_undo.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\undo.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_bookmarks.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\bookmarks.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_undo.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\undo.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_white_box2.gif.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\white_box2.gif"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_button.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\home_button.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_instrumental.mp3.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\raw\\instrumental.mp3"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_about_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\about_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_notification.mp3.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\raw\\notification.mp3"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_setting.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_overflow.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_white_box2.gif.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\white_box2.gif"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_discard.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_new_label.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_new_label.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_back.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_previous_item.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_previous_item.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_new_label.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_new_label.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_setting.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cancel_icon.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\cancel_icon.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_bkmrk.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\bkmrk.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home_button.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\home_button.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\xml_preferences.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_back.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_forward.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_time.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_new_label.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_new_label.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_settings.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_white_box2.gif.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\white_box2.gif"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_undo.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\undo.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_notify.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher_notify.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_settings.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\settings.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookmark_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\bookmark_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_settings.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_help.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_action_help.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_button.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\home_button.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bookmark_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\bookmark_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_notify.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_notify.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_about_app.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\about_app.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_forward.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_overflow.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\about_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_about_header.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\about_header.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_forward.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-mdpi\\ic_action_forward.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cancel_icon.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\cancel_icon.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\menu_time_preference.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\menu\\time_preference.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_box2.gif.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\white_box2.gif"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bookmark.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\activity_bookmark.xml"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\raw_perfect_notification.mp3.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\raw\\perfect_notification.mp3"
+    },
+    {
+        "merged": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about_app.xml.flat",
+        "source": "D:\\WebBrowser\\app\\src\\main\\res\\layout\\activity_about_app.xml"
+    }
+]

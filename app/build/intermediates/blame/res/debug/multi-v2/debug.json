@@ -1,0 +1,151 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "373"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "205",
+                        "endColumns": "58",
+                        "endOffsets": "259"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "26,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "858,916",
+                        "endColumns": "57,55",
+                        "endOffsets": "911,967"
+                    }
+                },
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values\\array.xml",
+                    "from": {
+                        "startLines": "24,17,5,11,2",
+                        "startColumns": "1,1,1,1,1",
+                        "startOffsets": "679,463,108,294,54",
+                        "endLines": "29,22,9,15,3",
+                        "endColumns": "16,16,16,16,16",
+                        "endOffsets": "875,673,288,457,102"
+                    },
+                    "to": {
+                        "startLines": "2,8,14,19,24",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,251,461,642,806",
+                        "endLines": "7,13,18,23,25",
+                        "endColumns": "16,16,16,16,16",
+                        "endOffsets": "246,456,637,801,853"
+                    }
+                },
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "23,15,16,46,37,9,20,4,38,3,10,45,17,56,21,12,5,25,29,22,30,34,41,43,50,49,28,32,26,27,35,36,47,48,31,33,19,14,13,6,42,39,55,54,18,8,40,7,24,52,53,51,11,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1146,667,706,3510,2360,384,966,109,2451,59,445,3442,771,4256,1027,531,163,1261,1538,1095,1591,2080,2997,3297,3862,3688,1477,1937,1315,1413,2143,2212,3553,3621,1859,2001,911,622,576,205,3067,2880,4209,4129,848,324,2927,260,1199,4004,4058,3929,484,3372",
+                        "endColumns": "51,37,63,41,89,59,59,52,427,48,37,66,75,45,66,43,40,52,51,49,266,61,68,73,65,172,59,62,96,62,67,146,66,65,76,77,53,43,44,53,228,45,45,78,61,58,68,62,60,52,69,73,45,68",
+                        "endOffsets": "1193,700,765,3547,2445,439,1021,157,2874,103,478,3504,842,4297,1089,570,199,1309,1585,1140,1853,2137,3061,3366,3923,3856,1532,1995,1407,1471,2206,2354,3615,3682,1931,2074,960,661,616,254,3291,2921,4250,4203,905,378,2991,318,1255,4052,4123,3998,525,3436"
+                    },
+                    "to": {
+                        "startLines": "28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "972,1024,1062,1126,1168,1258,1318,1378,1431,1859,1908,1946,2013,2089,2135,2202,2246,2287,2340,2392,2442,2709,2771,2840,2914,2980,3153,3213,3276,3373,3436,3504,3651,3718,3784,3861,3939,3993,4037,4082,4136,4365,4411,4457,4536,4598,4657,4726,4789,4850,4903,4973,5047,5093",
+                        "endColumns": "51,37,63,41,89,59,59,52,427,48,37,66,75,45,66,43,40,52,51,49,266,61,68,73,65,172,59,62,96,62,67,146,66,65,76,77,53,43,44,53,228,45,45,78,61,58,68,62,60,52,69,73,45,68",
+                        "endOffsets": "1019,1057,1121,1163,1253,1313,1373,1426,1854,1903,1941,2008,2084,2130,2197,2241,2282,2335,2387,2437,2704,2766,2835,2909,2975,3148,3208,3271,3368,3431,3499,3646,3713,3779,3856,3934,3988,4032,4077,4131,4360,4406,4452,4531,4593,4652,4721,4784,4845,4898,4968,5042,5088,5157"
+                    }
+                },
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "82,89",
+                        "startColumns": "4,4",
+                        "startOffsets": "5162,5453",
+                        "endLines": "88,91",
+                        "endColumns": "12,12",
+                        "endOffsets": "5448,5608"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WebBrowser\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\WebBrowser\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "316"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
